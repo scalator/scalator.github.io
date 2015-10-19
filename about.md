@@ -18,4 +18,4 @@ title: Hey there!
 * [@katrinsh](https://twitter.com/katrinsh)
 
 Happy to have you with us,
-Sean and Katrin
+<br>Sean and Katrin</br>
