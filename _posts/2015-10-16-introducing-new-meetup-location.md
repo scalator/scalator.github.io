@@ -1,6 +1,7 @@
 ---
 layout: post
 title: NEW Toronto Scala meetup LINK
+permalink: NEW-Toronto-Scala-meetup-LINK
 ---
 
 We're moving! We would like to thank trialfire.com for paying our meetup.com bills for the whopping year! Now when we have so many ideas and initiatives, we're ready to become chefs of our own destiny :) 
