@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
 
 # Permalinks
@@ -7,15 +7,18 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Toronto Scala
-tagline:          'Functional'
-description:      'Toronto Scala Functional'
+title:            scalator
+tagline:          'scalator'
+description: >
+  Toronto's Scala Meetup
 url:              http://scalator.ca
-baseurl:          /
+baseurl:          ''
 
 author:
   name:           'Sean Glover and Katrin Shechtman'
   url:            https://twitter.com/torontoscala
+  github:         scalator
+  twitter:        scalatoronto
 
 paginate:         20
 
@@ -24,3 +27,5 @@ version:          0.1.0
 
 github:
   repo:           https://github.com/scalator/scalator.github.io
+
+google_analytics: 'UA-69070925-1'
