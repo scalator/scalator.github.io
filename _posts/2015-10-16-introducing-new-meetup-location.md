@@ -1,7 +1,6 @@
 ---
 layout: post
 title: NEW Toronto Scala meetup LINK
-permalink: NEW-Toronto-Scala-meetup-LINK
 published: false
 ---
 
