@@ -73,6 +73,7 @@ strong {
   
   .logo-img {
     margin: 0;
+    display: inline;
   }
 }
 
@@ -288,9 +289,19 @@ hr.rule-two {
     width: 80%;
   }
 
+  .nav-menu-container {
+    width: 100%;
+  }
+  
   .navigation,
   .social-links {
     @include centered-block();
+  }
+
+  .menu__entry {
+    display: inline-block;
+    margin-right: 0px;
+    padding: 0 20px 0 20px;
   }
 
   .logo-container {
@@ -301,12 +312,11 @@ hr.rule-two {
 
   .social-links {
     font-size: 30px;
-    margin-top: 35px;
+    margin: 15px 0 0 0;
   }
 
   .page-title {
-    margin-top: 80px;
-    margin-bottom: 60px;
+    margin: 20px 0 20px 0;
   }
 
   .page-title__text {
@@ -330,7 +340,7 @@ hr.rule-two {
   }
 
   .footer {
-    margin-top: 80px;
+    margin-top: 20px;
   }
 
   .post-title__text {
