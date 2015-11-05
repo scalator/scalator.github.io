@@ -18,7 +18,7 @@ a {
 p {
   font-size: 20px;
   color: $iron;
-  line-height: 32px;
+  /* line-height: 32px; */
 }
 
 img {
@@ -74,6 +74,8 @@ strong {
   .logo-img {
     margin: 0;
     display: inline;
+    width: 70px;
+    height: 80px;
   }
 }
 
@@ -152,8 +154,8 @@ hr.rule-two {
 /* =Titles */
 .page-title {
   text-align: center;
-  margin-top: 50px;
-  margin-bottom: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .page-title__text {
@@ -214,7 +216,7 @@ hr.rule-two {
 .footer {
   text-align: center;
   color: $cloudy;
-  margin-top: 50px;
+  margin-top: 20px;
 }
 
 .footer__devider {
@@ -277,6 +279,25 @@ hr.rule-two {
 #disqus_thread {
   margin-top: 100px;
 }
+
+/* =Social feeds */
+.meetup-widget-container {
+  width:100%;
+  text-align: center;
+}
+
+/*
+.social-feeds {
+  display:inline-block;
+  width:100%;
+
+  .meetup-widget-container {
+    width:100%;
+  }
+  .twitter-widget-container {
+    width:500px;
+  }
+}*/
 
 @media (max-width: 800px) {
   /* =Base */
