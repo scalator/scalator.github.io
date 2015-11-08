@@ -79,6 +79,17 @@ strong {
   }
 }
 
+.meetup-logo {
+  display: block;
+  text-indent: -9999px;
+  width: 27px;
+  height: 18px;
+
+  .meetup-content {
+    fill: $cloudy;
+  }
+}
+
 .wrapper {
   max-width: 800px;
   margin: auto;

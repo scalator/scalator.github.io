@@ -18,7 +18,8 @@ author:
   name:           'Sean Glover and Katrin Shechtman'
   url:            https://twitter.com/torontoscala
   github:         scalator
-  twitter:        ScalaToronto
+  twitter:        scalato
+  meetup:         scalator
 
 paginate:         20
 
