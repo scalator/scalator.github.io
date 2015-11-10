@@ -12,13 +12,13 @@ permalink: /talks/
 <img src="/assets/img/scalator-wants-you.png" alt="scalator wants you!" class="scalator-wants-you" />
 </div>
 <div class="fleft" style="width:575px;margin-left:10px">
-<p style="margin:0">We accept two kinds of talk proposals.</p>
+<p style="margin:0">We welcome two kinds of talk proposals.</p>
 <ol>
 <li><p><b>Primary</b>: A meetup will usually have two primary talks or one primary and several community talks.  Talks that take over 30 minutes are generally considered a primary.</p></li>
 <li><p><b>Community</b>: Community talks are a great way for you to give back to the local Scala community. They can be 5 to 15 minutes and there will be some time for questions at the end.  For example:</p>
 <ul>
-<li>A success (or failure) of using Scala in a project.</li>
-<li>A library you’ve created or used extensively that you want to showcase.</li>
+<li>A success (or failure) of using Scala.</li>
+<li>A library you’ve created or used that you want to showcase.</li>
 <li>Elaboration of a Scala language feature.</li>
 </ul>
 </li>
@@ -31,7 +31,7 @@ permalink: /talks/
 There are only a few rules on content
 
 - Do not endorse or attempt to sell a proprietary or closed source solution.
-- Recruiters or business owners cannot canvas the audience for Spark and related technology hiring opportunities.
+- Recruiters or business owners cannot canvas the audience for Scala and related technology hiring opportunities.
 
 Submit a talk using the following Google Form!
 
