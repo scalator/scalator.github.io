@@ -238,6 +238,7 @@ hr.rule-two {
 .footer__label {
   font-size: 14px;
   margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 .organizers {
@@ -304,7 +305,18 @@ hr.rule-two {
   margin: 0
 }
 
+.talk-types {
+  display:inline-block;
+}
 
+.talk-types-left {
+  width:214px;
+}
+
+.talk-types-right {
+  width:575px;
+  margin-left:10px;
+}
 
 @media (max-width: 800px) {
   /* =Base */
@@ -377,5 +389,21 @@ hr.rule-two {
 
   .post-title__subtitle {
     font-size: 18px;
+  }
+
+  /* =Talks page */
+  .talk-types-left {
+    width: 100%;
+    text-align: center;
+  }
+
+  .talk-types-right {
+    width: 100%;
+  }
+
+  .scalator-wants-you {
+    width:200px;
+    display: inline;
+    margin-bottom: 18px;
   }
 }

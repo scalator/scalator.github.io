@@ -21,7 +21,7 @@ author:
   twitter:        scalato
   meetup:         scalator
 
-paginate:         20
+#paginate:         20
 
 # Custom vars
 version:          0.1.0

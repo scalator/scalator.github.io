@@ -5,13 +5,13 @@ subtitle: Submit a talk and past events
 permalink: /talks/
 ---
 
-# scalator wants you! (to submit a talk)
+# scalator wants you! [(to submit a talk)](https://goo.gl/kwYXzP)
 
-<div style="display:inline-block">
-<div class="fleft" style="width:214px;">
+<div class="talk-types">
+<div class="fleft talk-types-left">
 <img src="/assets/img/scalator-wants-you.png" alt="scalator wants you!" class="scalator-wants-you" />
 </div>
-<div class="fleft" style="width:575px;margin-left:10px">
+<div class="fleft talk-types-right">
 <p style="margin:0">We welcome two kinds of talk proposals.</p>
 <ol>
 <li><p><b>Primary</b>: A meetup will usually have two primary talks or one primary and several community talks.  Talks that take over 30 minutes are generally considered a primary.</p></li>
@@ -33,9 +33,7 @@ There are only a few rules on content
 - Do not endorse or attempt to sell a proprietary or closed source solution.
 - Recruiters or business owners cannot canvas the audience for Scala and related technology hiring opportunities.
 
-Submit a talk using the following Google Form!
-
-<iframe src="https://docs.google.com/forms/d/1vxQ33s8BLB8Ns77hBaKng5IUowdw1yiXmqegAuu1nKo/viewform?embedded=true" width="760" height="1300" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+## [Submit a talk now at: https://goo.gl/kwYXzP](https://goo.gl/kwYXzP)
 
 # Past Talks at Scala Toronto
 
@@ -61,7 +59,7 @@ Submit a talk using the following Google Form!
 
 #### [Scala Days redux](http://www.meetup.com/Toronto-Scala-Typesafe-User-Group/events/193530872/) - 07/23/14 - Empathica
 
-- Pitching Scala to the Enterprise by Mike Kelland, [Bold Radius](http://boldradius.com/) \[[@Mkelland](https://twitter.com/Mkelland)\]
+- Pitching Scala to the Enterprise by Mike Kelland, [Bold Radius](http://boldradius.com/) \[[@mkelland](https://twitter.com/mkelland)\]
 - scala.js and scala.rx by Dave Sugden, [Bold Radius](http://boldradius.com/) \[[@fritzsss](https://twitter.com/fritzsss)\]
 
 #### [Knowledge sharing talks on Scala macros, validation and caching and more](http://www.meetup.com/Toronto-Scala-Typesafe-User-Group/events/170349362/) - 04/17/14 - Nurun
