@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Initiatives
+title: Scalator night school
 subtitle: The more the merrier! Come and be a part!
 permalink: /initiatives/
 ---
 
-# Scalator night school
-
-<h2>First sessions. Coming soon!</h2>
+<h2>First 5 sessions. Coming soon! 
+<a href="http://goo.gl/forms/PAJuxlTYQu" target="_blank"><span style="font-size: 34px;">Signup today!</span></a></h2>
 
 <ol class="list">
 
