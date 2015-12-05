@@ -37,6 +37,11 @@ There are only a few rules on content
 
 # Past Talks at Scala Toronto
 
+#### [GraphQL with Sangria and Property Driven Tests](http://www.meetup.com/scalator/events/226668564/) - 12/03/15 - [Paytm Labs](http://paytmlabs.com/)
+
+- GraphQL with Sangria by Oleg Ilyenko, [commercetools GmbH](http://www.commercetools.com/en/) \[[Slides](http://bit.ly/graphql-with-sangria)\] \[[Video](https://www.youtube.com/watch?v=j4q4Phsczes)\] \[[@easyangel](https://twitter.com/easyangel)\]
+- Property Driven Testing by David Nadeau, [Ethoca](http://ethoca.com/) \[[Slides](https://drive.google.com/file/d/0B-Y0HYS_kLTIQWlFWDlRVW9XVFZuUzA5MjhxX1hVQlBuVWY4/view?usp=docslist_api)\] \[[Video](https://youtu.be/iRc1u9KyHgI)\]
+
 #### [Fighting Fraud with Reactive Systems built on Akka, Cassandra, and Spray](http://www.meetup.com/Toronto-Scala-Typesafe-User-Group/events/224034596/) - 08/20/15 - [Paytm Labs](http://paytmlabs.com/)
 
 - Building a Real-time Fraud Engine at Paytm Labs by Jacob Park, [Paytm Labs](http://paytmlabs.com/) \[[Slides](http://www.slideshare.net/jparkie/developing-a-realtime-engine-with-akka-cassandra-and-spray-51902586)\]
