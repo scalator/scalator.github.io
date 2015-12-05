@@ -9,7 +9,7 @@ subtitle: Scala Events & Services in the Toronto area
 There are many shops in Toronto making the transition to Scala and even more using components of [Typesafe's Reactive Platform](https://www.typesafe.com/products/typesafe-reactive-platform).  Join us to hear great Scala talks, meet your Scala peers in the GTA, discuss techniques, share what we've learned, answer questions, and develop best practices. All skill levels are welcome.
 
 <div class="meetup-widget-container">
-  <iframe width="230" height="410" src="http://meetu.ps/2QDB2m" frameborder="0"></iframe>
+  <iframe width="240" height="425" src="http://meetu.ps/2QDB2m" frameborder="0"></iframe>
 </div>
 
 ## [Visit our meetup.com site at http://meetup.com/scalator/](http://meetup.com/scalator/)
