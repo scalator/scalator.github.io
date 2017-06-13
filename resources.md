@@ -36,8 +36,7 @@ So without further ado:
 
 <ul>
 <li>
-<p><a target="_blank" href="https://www.coursera.org/course/progfun">Functional Programming Principles in Scala</a></p>
-<p><a target="_blank" href="https://www.coursera.org/course/reactive">Reactive programming</a></p>
+<p><a target="_blank" href="https://www.coursera.org/specializations/scala">Scala Specialization (5 courses)</a></p>
 </li>
 </ul>
 

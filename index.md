@@ -4,9 +4,9 @@ title: Scala Toronto
 subtitle: Scala Events & Services in the Toronto area
 --- 
 
-[Scala Toronto (scalator)](http://meetup.com/scalator/) is a great place to learn about the [Scala language](http://www.scala-lang.org/) for people that live in the Greater Toronto Area.  If you would like to learn more about the Scala, Akka, Spark, Play! Framework, functional programming, [the reactive paradigm](http://www.reactivemanifesto.org/), along with other progressive technologies and ideas then you've come to the right place.
+[Scala Toronto (scalator)](http://meetup.com/scalator/) is a great place to learn about the [Scala language](http://www.scala-lang.org/) for people that live in the Greater Toronto Area.  If you would like to learn more about the Scala, Akka, Akka Streams, Play! Framework, Spark, Kafka, functional programming, [the reactive paradigm](http://www.reactivemanifesto.org/), [reactive streams](http://www.reactive-streams.org/), along with other progressive technologies and ideas then you've come to the right place.
 
-There are many shops in Toronto making the transition to Scala and even more using components of [Typesafe's Reactive Platform](https://www.typesafe.com/products/typesafe-reactive-platform).  Join us to hear great Scala talks, meet your Scala peers in the GTA, discuss techniques, share what we've learned, answer questions, and develop best practices. All skill levels are welcome.
+There are many shops in Toronto making the transition to Scala.  Join us to hear great Scala talks, meet your Scala peers in the GTA, discuss techniques, share what we've learned, answer questions, and develop best practices. All skill levels are welcome.
 
 <div class="meetup-widget-container">
   <iframe width="240" height="490" src="http://meetu.ps/2QDB2m" frameborder="0"></iframe>
